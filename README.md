@@ -3,7 +3,7 @@
 Este es un pequeño ejemplo en NodeJs donde se pueden
 administrar tareas.
 
-Con writeFile grabamos, modificamos, leemos o borramos las tareas del 
+Grabamos, modificamos, leemos o borramos las tareas del 
 archivo json (data.json)
 
 Utilizo require('./config/yargs') para pasar parámetros desde consola.
